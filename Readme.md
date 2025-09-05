@@ -23,5 +23,4 @@ It demonstrates how to write efficient queries, use operators, and apply indexin
 ## 🛠️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/dvlpernarvin/Mongo_task_solution.git
